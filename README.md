@@ -10,6 +10,8 @@ Below you can find resources/ad-ons to our workshop and presentation delivered d
 
 # SQL Day 2022 Workshop  Agile & secure analytics architecture in Azure 
 
+Slides from the workshop: <a href="https://github.com/DataInsiders/SQLDay2022/blob/main/Agile%20but%20secure%20analytics%20architecture%20in%20Azure.pdf">Download</a><br>
+
 Analytics end-to-end with Azure Synapse 
 
 This example scenario demonstrates how to use Azure Synapse Analytics with the extensive family of Azure Data Services to build a modern data platform that's capable of handling the most common data challenges in an organization.
@@ -135,3 +137,52 @@ Some addiotnal useful links:<br>
    
     
 # The Bad and The Ugly - 10 steps to cure your Synapse Serverless performance and optimize costs
+
+<br>
+  Slide from sessions: <a href="https://github.com/DataInsiders/SQLDay2022/blob/main/Synapse%20Serverless%20SQL%20-%2010%20Steps.pdf">Download</a> <br><br>
+  <ul>
+  <li><a href="https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/best-practices-serverless-sql-pool">Best practices for serverless SQL pool (documentation)</a></li>
+ <li><a href="https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/optimize-database-schema-in-serverless-sql-pools-using-qpi/ba-p/3252140">Optimize database schema using QPI library (blog)</a></li>
+ <li><a href="https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/best-practices-for-integrating-serverless-sql-pool-with-cosmos/ba-p/3257975">    Optimize serverless SQL pool and Synapse link (blog)</a></li>
+   <li><a href="https://github.com/datahai/serverlesssqlpooltools">Andy Cutler’s serverless SQL pool Utility Scripts (GitHub)</a></li>
+   <br><br>Azure Synapse Resources
+
+ <li><a href="https://aka.ms/SynapseBlog">Blog</a></li>
+ <li><a href="https://aka.ms/SynapseMonthlyUpdate">Montly Updates</a></li>
+ <li><a href="https://aka.ms/SynapseYouTube">YouTube</a></li>
+   
+ <li><a href="https://twitter.com/Azure_Synapse">Twitter</a></li>
+ <li><a href="https://aka.ms/SynapseIdeas">Ideas</a></li>
+ <li><a href="http://aka.ms/SynapseDoc">Documentation </a></li>
+ <li><a href="https://docs.microsoft.com/en-us/learn/browse/?expanded=azure&products=azure-synapse-analytics&resource_type=learning%20path">
+Microsoft Learn</a></li>
+    <li><a href="https://aka.ms/SynapseCommunity">Community Hub</a></li>
+   </ul>
+  
+    
+  
+  
+
+  
+   
+  
+
+
+ 
+ 
+
+
+
+
+
+
+  
+  
+  
+  
+    
+
+
+
+
+
